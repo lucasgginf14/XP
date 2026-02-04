@@ -1,0 +1,296 @@
+1. (1) Se produce un corte de luz en parte de nuestras oficinas
+durante los días en los que estaba previsto desarrollar las
+unidades, documentarlas y ejecutar las pruebas de unidad.
+Teniendo en cuenta que únicamente estas tareas se ven
+afectadas:
+
+c) Se define una excepción en el calendario de estas tres
+tareas, indicando que los días en que está                        	✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+programado el corte de luz no son laborables
+
+2. Durante el desarrollo del proyecto, nuestras oficinas se ven
+afectadas por unas obras en las que se rompen los cables de
+fibra y, por tanto, no se puede llevar a cabo el trabajo previsto
+al estar inaccesible toda la infraestructura de la empresa:
+
+a) Se define una excepción en el calendario del
+proyecto, indicando que los días en los que la						✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+infraestructura está inaccesible no son laborables.
+
+
+3. (2) Para la tarea de elaboración de ERS se ha subestimado
+el esfuerzo inicial (100 h) en 40h. Además, el recurso A1
+promociona a analista jefe y su salario pasa a ser de 40€/h
+(inicialmente era de 30h/€)
+
+a) Aumenta el esfuerzo, aumenta la duración y aumenta				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+el coste de la tarea	
+
+
+4. (1) El recurso T1 se pone 2 días de baja durante el período
+en que estaba previsto que se realizase el plan de pruebas de
+sistema. Dado que la tarea no es crítica y que T2 no conoce
+totalmente el trabajo concreto realizado por T1, se decide
+esperar a que T1 se reincorpore:
+
+a) Se define una excepción en el calendario de T1,
+indicando como no laborable los días en los que no
+puede trabajar. MS Project automáticamente reservará				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+el trabajo pendiente de T1 para cuando vuelva
+
+
+5. (2) En la peer review de requisitos, A1 sólo ha podido
+dedicar las mañanas a la tarea, por asistencia a un curso de
+formación por la tarde.
+
+c) Disminuye el esfuerzo, se mantiene la duración y					✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+disminuye el coste
+
+6. (2) Durante el seguimiento, las tareas deben actualizarse:
+
+c) Por orden cronológico											✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+
+7. (2) Durante la ejecución de la revisión técnica del diseño
+software (RDS) se detectan errores en la arquitectura.
+Corregirlos implica 14 h de (4 en la corrección del modelo de la
+arquitectura y 10 en la corrección en detalle de sus
+componentes)
+
+a) Se crean dos tareas Corregir arquitectura (4h de
+trabajo real) y Corregir detalle arquitectura (10h de				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+trabajo real) y se establecen sus fechas de comienzo
+reales
+
+
+8. (2) Durante el período en que estaba previsto que D1 y D2
+llevasen a cabo el diseño de la BBDD, D1 asiste a un curso deformación, por lo que se decide contratar a un tercer diseñador,
+D3 que asuma su trabajo:
+
+b) Se define una excepción en el calendario de D1
+indicando que los días en que asiste al curso no son
+laborables. Además, se asignará a D3 a la tarea
+afectada.
+También
+será																✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+necesario
+reasignar
+manualmente a las horas de la tarea al sustituto
+
+
+9. (4) Como parte de la replanificación se decide realizar el test
+de usabilidad mediante una herramienta automática. Esto
+reduce el trabajo de los tester a 4 h en total
+
+b) Se establece 4h como nuevo trabajo actual de la tarea			✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+
+10. (2) A medida que se realiza el seguimiento, el camino
+crítico
+
+a) Es recalculado automáticamente									✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+	
+
+11. (2) Al introducir los valores reales de esfuerzo y duración
+durante el seguimiento:
+
+a) MS-Project calcula los costes reales								✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+
+12. Durante el período en que estaba previsto que D1 y D2
+llevasen a cabo el diseño de la BBDD, éstos asisten a un curso
+durante las tardes, por lo que únicamente pueden trabajar por
+la mañanas:
+
+a) Se define una excepción en los calendarios de D1 y
+D2, indicando que los días en que asisten al curso					✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+únicamente las mañanas son laborables
+
+13. (1) Debido al incremento de casos de COVID, se decreta
+un confinamiento total durante un mes y nuestros trabajadores
+no disponen de medios para poder cumplir con sus tareas
+desde sus casas:
+
+b) Se define una excepción en el calendario del						✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+proyecto, indicando que los días en los que se ha
+decretado el confinamiento no son laborables
+
+14. (1) Durante una revisión puntual realizada por el Experto
+una vez finalizado el ERS, la oficina donde se debería llevar acabo esta tarea sufre una inundación y no es posible
+desarrollar el trabajo previsto durante 2 días:
+
+c) Se define una excepción en el calendario de la tarea
+de supervisión del ERS, indicando como no							✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+laborables los días en los que no se puede trabajar
+
+
+15. Para la tarea de análisis de presupuestos en la fase de
+adquisición, que es CT, se ha sobreestimado la duración inicial
+(8h) en 2h. Además, aunque inicialmente se había planteado
+que DS1 se encargase de la tarea, se decide también
+incorporar a DS2, para que, entre ambos, puedan discutir los
+presupuestos recibidos y tomar la mejor decisión
+
+
+b) Aumenta el esfuerzo, disminuye la duración y						✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+aumentan los costes
+
+
+16.(1) Durante la fase de seguimiento, se detecta que el
+esfuerzo estimado inicialmente (100 h) para la tarea de
+elaboración del ERS se ha sobreestimado, puesto que la tarea
+realmente ha requerido 80 h de esfuerzo para completarse:
+
+b) Disminuye el esfuerzo, disminuye la duración y					✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+disminuye el coste de la tarea
+
+
+17.(2) Como parte de la replanificación, se decide flexibilizar el
+ciclo en V y adelantar las tareas de implementación
+(implementar, documentar y pruebas de unidad) para que se
+puedan solapar en parte con el detalle de componentes
+	
+c) Se establecen relaciones FC con demora negativa					✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+entre el detalle de componentes y las tareas de
+implementación
+
+18.(1) Como parte de la replanificación, se decide subcontratar
+la implementación de la base de datos
+
+b) Se sustituye la tarea Implementar BBDD por 2 hitos
+con relación FC entre ellos más una demora							✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+equivalente al tiempo que tiene la subcontrata para
+realizar la tarea
+
+19. (1) Finalmente, por problemas de disponibilidad horaria del
+cliente, la tarea de Formación se ha realizado en sesiones de 3
+h diarias durante 2 d
+
+b) La tarea Formación mantiene su duración, reduce su
+esfuerzo y reduce su coste											✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+
+20. Los recursos DS1 y DS2 acuden a un curso de formación
+durante 15 días, que se solapa parcialmente con los días en
+los que estaba previsto llevar a cabo la implementación de
+unidades, su documentación y la ejecución de las pruebas de
+unidad. Dada la urgencia por avanzar en el proyecto, se decide
+que el resto de los desarrolladores asuman el trabajo que
+inicialmente estaba previsto para DS1 y DS2:
+
+a) Se define una excepción en los calendarios de DS1 y
+DS2, indicando como no laborables los días en los
+que asisten al curso. Además, será necesario						✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+reasignar manualmente las horas en las que DS1 y
+DS2 están en el curso al resto de desarrolladores en
+las tareas afectadas.
+
+21. El recurso T1 se pone de baja durante el período en que
+estaba previsto llevar a cabo la ejecución de pruebas de
+integración. Se decide que el recurso T2 asuma el trabajo que
+inicialmente estaba previsto para T1:
+
+b) Se define una excepción en el calendario de T1,
+indicando como no laborables los días en los que está				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+de
+baja.
+Ademas,
+sera
+necesario
+asignar
+manualmente las horas de la tarea en la que T1 está
+de baja al recurso T2, una vez que este haya
+terminado su trabajo
+
+22.(1) Durante una revisión puntual realizada por el Experto
+una vez finalizado el ERS, el experto sufre un accidente y
+solicita una baja de 2 días. Se decide contratar a un segundo
+experto que reemplace al anterior durante esos 2 días:
+
+b) Se define una excepción en el calendario de Experto,				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+indicando como no laborables los días en los que no
+puede trabajar. Ademas, sera necesario asignar al
+nuevo experto a la tarea de supervisión, asignándole
+manualmente las horas correspondientes a esos días
+
+23. Las oficinas en las que habitualmente trabajan los
+diseñadores se pintan durante el periodo en que estaba
+previsto llevar a cabo las tareas correspondientes a la fase de
+diseño. Aunque el resto de los empleados pueden trabajar, los
+diseñadores no pueden completar las tareas de diseño
+previstas para estos días:
+	
+c) Se define una excepción en el calendario de estas				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+tareas. indicando que los días en que se pintan las
+oficinas no son laborables
+
+24. Durante la fase de seguimiento, se detecta que el esfuerzo
+estimado inicialmente (100 h) para la tarea de elaboración del	
+ERS se ha subestimado, puesto que la tarea realmente ha
+requerido 150h de esfuerzo para completarse:
+
+b) Aumenta el esfuerzo, aumenta la duración y aumenta				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+el coste de la tarea	
+
+25. (1) Durante la fase de seguimiento, se detecta que la
+duración estimada inicialmente para la tarea de peer review de
+requisitos se ha subestimado y pasa a durar el doble
+
+b) Aumenta el esfuerzo, aumenta la duración y aumenta				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+el coste	
+
+
+26. Tanto D1 como D2 se ponen de baja durante el período en
+el que estaba previsto llevar a cabo el diseño de la BBDD:
+
+a) Se define una excepción en los calendarios de D1 y				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+D2, indicando como no laborables los días en los que
+no pueden trabajar
+
+27.(1) Durante las pruebas de aceptación el cliente pide una
+serie de cambios en la interfaz de usuario de los que se
+encarga DS2 y completa en 20 horas de trabajo:
+
+a) Se crea una nueva tarea con DS2 asignado, trabajo				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+real 20 h y fecha de comienzo real el día siguiente al
+fin real de la tarea Ejecutar Plan Pruebas Aceptación
+
+
+28. Durante el desarrollo del proyecto se produce una nevada
+que le impide por completo la realización de las tareas, ya que
+los recursos únicamente pueden trabajar desde las oficinas y
+no es posible acceder a ellas:
+
+c) Se define una excepción en el calendario del						✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+proyecto, indicando que los días afectados por la
+nevada no son laborables.
+
+29. Durante la fase de análisis, A1 y A2 se ponen de baja y,
+para evitar que el proyecto se retrase excesivamente, se
+decide que un tercer analista, A3 asuma su trabajo:
+
+b) Se define una excepción en el calendario de A1 y A2,
+indicando que los días en los que están de baja no
+son laborables. Además, se asignará a A3 a las tareas				✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+afectadas. También será necesario reasignar
+manualmente las horas de todas las tareas afectadas
+en las que A1 y A2 están de baja a su sustituto, A3.
+
+30. Durante la revisión puntual realizada por el Experto una vez
+finalizado el ERS, el experto sufre un accidente y solicita una
+baja de de 2 días:
+
+c) Se define una excepción en el calendario del experto,			✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+indicando como no laborables los días en los que no
+puede trabajar
+
+31(?). Para la tarea de elaboración de ERS se ha
+sobreestimado el esfuerzo inicial (100 h) en 20h. Además, el
+recurso A1 promociona a analista jefe y su salario pasa a ser
+de 40€/h (inicialmente era de 30h/€).
+
+c) Disminuye el esfuerzo, disminuye la duración y					✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+disminuye el coste de la tarea.
+
+32. Para la tarea de elaboración del ERS se ha sobreestimado
+el esfuerzo inicial (100 h) en 40 h, por lo que se decidió
+prescindir de A2:
+
+c) Disminuye el esfuerzo, aumenta la duración y						✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+disminuye el coste de la tarea
